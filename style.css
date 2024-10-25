@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Tomorrow&display=swap');
+
+:root{
+  --text-color: #ffffff;
+  --card-front-color: #51BBA9;
+  --card-back-color: #51BBA9;
+}
+
+body {
+  background: url(img/bg-desktop-blue.webp);
+  font-family: Tomorrow;
+}
+@import url('https://fonts.googleapis.com/css2?family=Tomorrow&display=swap');
+
+:root{
+  --text-color: #ffffff;
+  --card-front-color: #51BBA9;
+  --card-back-color: #51BBA9;
+}
+
+body {
+  background: url(img/bg-desktop-blue.webp);
+  font-family: Tomorrow;
+}
+#container {
+    display: flex;
+    flex-wrap: wrap;
+  }
